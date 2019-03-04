@@ -1,0 +1,27 @@
+.List{
+    box-shadow: 0 2px 3px #eee;
+    width: 60%;
+    border: 1px solid #eee;
+    margin: auto;
+    text-align: center;
+    display: table;
+    cursor: default;
+}
+
+.listShow{
+    width: 90%;
+    text-align: left;
+    padding-left: 10px;
+}
+
+.btnDel{
+    background-color: red;
+    color: antiquewhite;
+}
+
+.btnAdd{
+    height: 40px;
+    font-size: 30px;
+    cursor: default;
+    margin: auto;
+  }
